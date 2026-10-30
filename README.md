@@ -3,7 +3,7 @@
 An interactive Tableau Public dashboard that shows which customer behaviours are linked with a Poor credit score. It is the dashboard stage of my Python EDA project.
 
 **Live dashboard:** https://public.tableau.com/app/profile/nitin.tiwari2142/viz/Paisabazaar_Dashboard/PaisabazaarCreditRiskDashboard
-**Related EDA project:** [<link to your EDA repo>](https://github.com/nitintiwari-Lab/paisabazaar-credit-risk-analysis)
+**Related EDA project:** https://github.com/nitintiwari-Lab/paisabazaar-credit-risk-analysis
 
 ![Dashboard](screenshots/dashboard_full.png)
 
